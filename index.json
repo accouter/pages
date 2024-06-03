@@ -2,7 +2,7 @@
   "README.html": {
     "href": "README.html",
     "title": "| accouter",
-    "keywords": "A semantic and open source administrative template with responsive and clean design."
+    "keywords": "A semantic and open source administrative template with responsive and clean design. 🔎 Preview Accouter is designed to be fully responsive and compatible with all modern browsers. Its modern, user-friendly design allows you to create a functional interface that users will love. You can select and customize the layouts and components you need to ensure a consistent and visually appealing design. Each component is crafted with meticulous attention to detail to enhance the beauty of your interface. 🚀 Features 📖 Documentation 📦 Installation npm install --save @accouter/core"
   },
   "docs/getting-started.html": {
     "href": "docs/getting-started.html",
